@@ -28,7 +28,7 @@ A simplified Frame.io-style mobile feature built in **React Native (Expo)**, imp
 - **Video playback** is implemented using `expo-av`.  
 - **Freehand drawing** is implemented using `react-native-svg` with gesture handling.  
 - **Data persistence** is handled via `AsyncStorage` for storing comments and drawings locally.  
-- The project is structured into separate components for video, comments, and drawing to ensure clarity and maintainability.  
+- The project is structured into separate components for video and drawing to ensure clarity and maintainability.  
 
 ---
 
